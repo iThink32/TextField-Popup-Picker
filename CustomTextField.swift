@@ -1,6 +1,5 @@
 //
 //  CustomTextField.swift
-//  SnapCodes
 //
 //  Created by Shashank  on 2/22/16.
 //
