@@ -3,7 +3,6 @@
 //  SnapCodes
 //
 //  Created by Shashank  on 2/22/16.
-//  Copyright © 2016 Softway Solutions. All rights reserved.
 //
 
 import UIKit
