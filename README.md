@@ -1,6 +1,8 @@
 # Pop-Up-Text-Field
 A Text Field With Capabilities of Displaying and removing a custom pop up
 
+![alt text](https://github.com/iThink32/Pop-Up-Text-Field/blob/master/PopupTextField.mp4)
+
 Points to note:-
 
 In this func 
