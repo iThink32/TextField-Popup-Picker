@@ -7,7 +7,7 @@ Points to note:-
 
 In this func 
 ```
-func initializeTextFieldRightView(errImg:String = "errIcon",popUpMsg:String,presentationController:UIViewController)
+func displayPopup(errImg:String = "errIcon",popUpMsg:String,presentationController:UIViewController)
     {
         btnError = UIButton(frame: CGRect(x: 0, y: 0, width: 20, height: 20))
         self.rightView = btnError
