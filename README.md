@@ -44,3 +44,5 @@ currentTextField.removePopup()
 ```
 
 NOTE:THIS IS A SUBCLASS OF FORM TEXT FIELD SO PLS ADD THAT FILE TOO
+
+There are other attributes in the IBInspector pls have a look at it.
