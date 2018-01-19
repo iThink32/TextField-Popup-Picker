@@ -21,4 +21,10 @@ You can set your arrow image in the @IBInspector as shown below:-
 
 NOTE :- THIS IS A SUBCLASS OF FORM TEXT FIELD PLS ADD THAT TOO IT IS IN THIS REPO
 
+Have a look at the other screenshots:-
+
+![alttext](https://github.com/iThink32/TextField-Popup-Picker/blob/master/Screen%20Shot%202018-01-19%20at%203.46.35%20PM.png)
+
+![alttext](https://github.com/iThink32/TextField-Popup-Picker/blob/master/Screen%20Shot%202018-01-19%20at%203.46.56%20PM.png)
+
 
