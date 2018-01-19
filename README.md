@@ -46,3 +46,9 @@ currentTextField.removePopup()
 NOTE:THIS IS A SUBCLASS OF FORM TEXT FIELD SO PLS ADD THAT FILE TOO
 
 There are other attributes in the IBInspector pls have a look at it.
+
+Please do not set the arrow image here as there is no use of it for this sub class directly set it in the function mentioned above
+
+![alttext](https://github.com/iThink32/TextField-Popup-Picker/blob/master/Screen%20Shot%202018-01-19%20at%203.45.46%20PM.png)
+
+you can set the left offset , placeholder color as well as the placeholder font size
